@@ -61,7 +61,7 @@
       # URL of the LOGO
       logo = ""
       # title name
-      name = "My KeepIt site"
+      name = "rumi jr."
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -150,13 +150,13 @@
     [params.home.profile]
       enable = true
       # Gravatar Email for preferred avatar in home page
-      gravatarEmail = "test1@example.com"
+      gravatarEmail = "batuhankavlak4@gmail.com"
       # URL of avatar shown in home page
       avatarURL = ""
       # title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page
-      subtitle = "This is my KeepIt site"
+      subtitle = "Hoş Geldin Yabancı! Burası inşa aşamasında."
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -170,70 +170,9 @@
       paginate = 6
   # Social config in home page
   [params.social]
-    GitHub = "xxx"
-    Linkedin = "xxx"
-    Twitter = "xxx"
-    Instagram = "xxx"
-    Facebook = "xxx"
-    Telegram = "xxx"
-    Medium = "xxx"
-    Gitlab = "xxx"
-    Youtubelegacy = "xxx"
-    Youtubecustom = "xxx"
-    Youtubechannel = "xxx"
-    Tumblr = "xxx"
-    Quora = "xxx"
-    Keybase = "xxx"
-    Pinterest = "xxx"
-    Reddit = "xxx"
-    Codepen = "xxx"
-    FreeCodeCamp = "xxx"
-    Bitbucket = "xxx"
-    Stackoverflow = "xxx"
-    Weibo = "xxx"
-    Odnoklassniki = "xxx"
-    VK = "xxx"
-    Flickr = "xxx"
-    Xing = "xxx"
-    Snapchat = "xxx"
-    Soundcloud = "xxx"
-    Spotify = "xxx"
-    Bandcamp = "xxx"
-    Paypal = "xxx"
-    Fivehundredpx = "xxx"
-    Mix = "xxx"
-    Goodreads = "xxx"
-    Lastfm = "xxx"
-    Foursquare = "xxx"
-    Hackernews = "xxx"
-    Kickstarter = "xxx"
-    Patreon = "xxx"
-    Steam = "xxx"
-    Twitch = "xxx"
-    Strava = "xxx"
-    Skype = "xxx"
-    Whatsapp = "xxx"
-    Zhihu = "xxx"
-    Douban = "xxx"
-    Angellist = "xxx"
-    Slidershare = "xxx"
-    Jsfiddle = "xxx"
-    Deviantart = "xxx"
-    Behance = "xxx"
-    Dribbble = "xxx"
-    Wordpress = "xxx"
-    Vine = "xxx"
-    Googlescholar = "xxx"
-    Researchgate = "xxx"
-    Mastodon = "xxx"
-    Thingiverse = "xxx"
-    Devto = "xxx"
-    Gitea = "xxx"
-    XMPP = "xxx"
-    Matrix = "xxx"
-    Bilibili = "xxx"
-    Email = "xxx"
-    RSS = "xxx"
+    GitHub = "bkavlak"
+    Linkedin = "bkavlak"
+    Instagram = "batuhankavlakkendisi"
 
   # Page global config
   [params.page]
